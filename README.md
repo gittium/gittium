@@ -38,9 +38,6 @@ I'm passionate about **Data Engineering** and **Backend Engineering**, with a fo
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gittium&layout=compact&theme=radical)
 
-## 📈 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gittium&theme=radical)
 
 ---
 
