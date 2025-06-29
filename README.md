@@ -30,10 +30,6 @@ I'm passionate about **Data Engineering** and **Backend Engineering**, with a fo
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gittium&show_icons=true&theme=radical&count_private=true)
-
 ## 🔥 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gittium&layout=compact&theme=radical)
