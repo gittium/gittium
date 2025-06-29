@@ -37,6 +37,6 @@ I'm passionate about **Data Engineering** and **Backend Engineering**, with a fo
 
 ---
 
-💡 *"Data is the new oil, but like oil, it's valuable only when refined."*
+
 
 📫 **Let's connect and build something amazing together!**
